@@ -23,14 +23,6 @@ Demo:
    ```shell
     PORT=9001 DEV_HOT_PORT=8001 make dev
    ```
-
-Big thanks to:
-
-1. [go-starter-kit](https://github.com/olebedev/go-starter-kit)
-1. [Webpack your bags](http://blog.madewithlove.be/post/webpack-your-bags/)
-1. [react-transform-hmr](https://github.com/gaearon/react-transform-hmr)
-1. [babel-preset-react-hmre](https://github.com/danmartinez101/babel-preset-react-hmre)
-
 Hot module reload
 
 [See webpack-dev-server doc](http://webpack.github.io/docs/webpack-dev-server.html#combining-with-an-existing-server)
@@ -41,10 +33,6 @@ Hot module reload
 Missing Parts:
 
 1. Sprite images management and auto-generation
-
-Contributions:
-
-1. acecode.tk@gmail.com for the HMR, PORT settings
 
 License
 ---
