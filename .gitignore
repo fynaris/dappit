@@ -1,5 +1,5 @@
 .pid
 node_modules
-web-starter-kit*
+dappit*
 public/bundles
 webpack-assets.json

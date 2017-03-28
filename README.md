@@ -1,4 +1,4 @@
-web-starter-kit
+dappit
 -----
 
 Use Go, Webpack to build and package web application starter kit.

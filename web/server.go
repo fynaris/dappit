@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mijia/scache"
-	"github.com/mijia/sweb/log"
-	"github.com/mijia/sweb/render"
-	"github.com/mijia/sweb/server"
+	"github.com/fynaris/scache"
+	"github.com/fynaris/sweb/log"
+	"github.com/fynaris/sweb/render"
+	"github.com/fynaris/sweb/server"
 	"golang.org/x/net/context"
 )
 

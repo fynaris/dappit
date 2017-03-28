@@ -1,11 +1,11 @@
 {
-  "name": "web-starter-kit",
+  "name": "dappit",
   "version": "0.1.0",
   "description": "Web skeleton for other projects to use",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mijia",
+  "author": "fynaris",
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.3",

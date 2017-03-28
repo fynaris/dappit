@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/mijia/web-starter-kit/web"
+	"github.com/fynaris/dappit/web"
 )
 
 func main() {

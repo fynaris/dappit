@@ -3,8 +3,8 @@ package web
 import (
 	"net/http"
 
-	"github.com/mijia/sweb/render"
-	"github.com/mijia/sweb/server"
+	"github.com/fynaris/sweb/render"
+	"github.com/fynaris/sweb/server"
 	"golang.org/x/net/context"
 )
 
